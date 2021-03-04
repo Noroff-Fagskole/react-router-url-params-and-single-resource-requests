@@ -1,0 +1,17 @@
+nav {
+	background: #ebebeb;
+	padding: 10px;
+}
+
+.books {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.books a {
+	display: block;
+	padding: 2rem;
+	background: white;
+	margin: 5px;
+	text-decoration: none;
+}
